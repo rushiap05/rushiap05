@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiap05&label=Profile%20views&color=0e75b6&style=flat" alt="rushiap05" /> </p>
 
-- 🔭 I’m currently working on **myportfolio**
+- 🔭 I’m currently working on [myPortfolio](https://rushikesh-pohare.netlify.app/)
 
 - 🌱 I’m currently learning **React & Redux**
 
